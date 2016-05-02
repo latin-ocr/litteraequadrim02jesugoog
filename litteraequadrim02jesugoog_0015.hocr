@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./litteraequadrim02jesugoog_0015.png"; bbox 0 0 3210 5392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 336 752 657">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 336 752 657">
+     <span class='ocr_line' id='line_1_1' title="bbox 440 336 705 401; baseline -0.008 -2"><span class='ocrx_word' id='word_1_1' title='bbox 440 336 483 401; x_wconf 75' lang='lat' dir='ltr'><strong>To</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 506 338 590 399; x_wconf 81' lang='lat' dir='ltr'><strong>NEW</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 615 338 705 397; x_wconf 70' lang='lat' dir='ltr'><strong>vom(</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 389 437 752 516; baseline -0.014 0"><span class='ocrx_word' id='word_1_4' title='bbox 389 440 538 516; x_wconf 67' lang='lat' dir='ltr'>Pussmc</span> <span class='ocrx_word' id='word_1_5' title='bbox 564 437 752 513; x_wconf 63' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 409 538 720 657; baseline -0.055 -1"><span class='ocrx_word' id='word_1_6' title='bbox 409 538 720 657; x_wconf 69' lang='lat' dir='ltr'><strong>:25079n</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 380 680 760 889">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 380 680 760 889">
+     <span class='ocr_line' id='line_1_4' title="bbox 409 680 736 731; baseline -0.012 -6"><span class='ocrx_word' id='word_1_7' title='bbox 409 682 521 731; x_wconf 74' lang='lat' dir='ltr'>ASTOR,</span> <span class='ocrx_word' id='word_1_8' title='bbox 538 682 650 723; x_wconf 75' lang='lat' dir='ltr'>LENox</span> <span class='ocrx_word' id='word_1_9' title='bbox 665 680 736 723; x_wconf 66' lang='lat' dir='ltr'><strong>Ano</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 380 762 760 806; baseline -0.005 0"><span class='ocrx_word' id='word_1_10' title='bbox 380 766 506 806; x_wconf 76' lang='lat' dir='ltr'>TILDEN</span> <span class='ocrx_word' id='word_1_11' title='bbox 525 762 760 805; x_wconf 70' lang='lat' dir='ltr'><strong>FOUNDATIUNS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 432 844 713 889; baseline -0.018 0"><span class='ocrx_word' id='word_1_12' title='bbox 432 846 453 889; x_wconf 84' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_13' title='bbox 540 844 607 887; x_wconf 71' lang='lat'><strong>1926</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 691 844 713 885; x_wconf 85' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1610 5392">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1610 5392">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1610 5392; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1610 5392; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
